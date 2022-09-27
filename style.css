@@ -7,9 +7,13 @@ img {
 }
 p {
   font-size: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 h1 {
   color: white;
+  text-decoration-line:underline;
+  text-decoration-color: red;
 }
 hr {
   color: cyan;
